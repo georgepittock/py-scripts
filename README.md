@@ -1,2 +1,1 @@
-# py-scripts
-A collection of scripts I have used/made and wanted to make publicly available. Most of these will be algorithms etc.
+Some scripts I've made which may be useful to some people :)
